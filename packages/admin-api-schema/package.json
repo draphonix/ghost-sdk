@@ -1,8 +1,8 @@
 {
-  "name": "@tryghost/admin-api-schema",
-  "version": "4.5.5.1",
-  "repository": "https://github.com/TryGhost/SDK/tree/main/packages/admin-api-schema",
-  "author": "Ghost Foundation",
+  "name": "ghost-admin-api-schema",
+  "version": "4.5.5",
+  "repository": "https://github.com/draphonix/ghost-sdk/tree/main/packages/admin-api-schema",
+  "author": "Forked from the Ghost Foundation",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
